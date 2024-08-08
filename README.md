@@ -41,6 +41,6 @@ npm i && npm run seed && npm run start
     - Update One (PUT): http://localhost:3001/api/tags/{enter_valid_id}
     - Delete One (DELETE): http://localhost:3001/api/tags/{enter_valid_id}
 ## Video
-### Categories:
-### Products:
-### Tags:
+### Categories: https://drive.google.com/file/d/1pkuu6xmKhkDJJ6ZF5kfyC8sS8zRpz5Z_/view?usp=sharing
+### Products: https://drive.google.com/file/d/1jffLpEZuueFlKaeV0Pl-DKanR2bEWwY1/view?usp=sharing
+### Tags: https://drive.google.com/file/d/1ONHURQBfk_V6XjvqY8LB1YSvdeKij6eC/view?usp=sharing
